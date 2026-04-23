@@ -103,3 +103,33 @@ Command:
 ## Sample Results (Deviled Eggs Recipe)
 
 Input Image Text:
+
+Deviled Eggs Servings 12
+Ingredients
+6 Hard Boiled Eggs
+1/3 C. Mayonnaise
+1 tsp Dill Pickle Relish, drained
+Sriracha Sauce, pea size dollop
+Dash of Garlic Powder
+Dash of Salt
+Dash of Pepper
+Paprika
+
+
+Output Table:
+
+| 🥕 Ingredient | 📊 Quantity | 📏 Unit |
+|---------------|-------------|---------|
+| Hard Boiled Eggs | 6 | pieces |
+| Mayonnaise | 1/3 | cup |
+| Dill Pickle Relish | 1 | tsp |
+| Sriracha Sauce | pea size dollop | - |
+| Garlic Powder | dash | - |
+| Salt | dash | - |
+| Pepper | dash | - |
+| Paprika | - | - |
+
+## Sample Results (Avgolemono Soup Recipe)
+
+Input Image Text:
+
