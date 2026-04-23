@@ -133,3 +133,36 @@ Output Table:
 
 Input Image Text:
 
+Avgolemono Soup
+Ingredients:
+1 tbsp olive oil
+1 onion, diced
+3 cloves garlic, minced
+8-10 cups chicken broth
+1 cup whole wheat orzo pasta
+3 cups cooked chicken (shredded)
+3 eggs
+1/2 cup lemon juice
+1 handful fresh spinach
+1 1/2 tsp salt
+Freshly ground pepper to taste
+Fresh dill to taste
+
+
+Output Table:
+
+| 🥕 Ingredient | 📊 Quantity | 📏 Unit |
+|---------------|-------------|---------|
+| olive oil | 1 | tablespoon |
+| onion, diced | 1 | - |
+| garlic, minced | 3 | cloves |
+| chicken broth | 8-10 | cups |
+| whole wheat orzo | 1 | cup |
+| cooked chicken | 3 | cups |
+| eggs | 3 | - |
+| lemon juice | 1/2 | cup |
+| fresh spinach | 1 | handful |
+| salt | 1 1/2 | teaspoons |
+| freshly ground pepper | to taste | - |
+| fresh dill | to taste | - |
+
